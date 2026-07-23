@@ -2,7 +2,7 @@
 
 Personal portfolio site of an aspiring **Cloud Engineer** — built with **Astro** (zero-JS static output), deployed on **Cloudflare Pages** with automatic deploys from `main`.
 
-**🔗 Live:** https://YOUR-PORTFOLIO-URL.pages.dev <!-- TODO: replace with your real Cloudflare Pages URL -->
+**🔗 Live:** [https://YOUR-PORTFOLIO-URL.pages.dev](https://portfolio.kamronb3k03.workers.dev/) <!-- TODO: replace with your real Cloudflare Pages URL -->
 
 ## What's on it
 
